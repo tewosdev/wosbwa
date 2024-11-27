@@ -93,4 +93,4 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 | [![TewosDev](https://github.com/tewosdev.png?size=100)](https://github.com/tewosdev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/tewosdev.png?size=100)](https://github.com/tewosdev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
 | --- | --- | --- | --- |
-| [TewoaDev](https://github.com/tewosdev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+| [TewosDev](https://github.com/tewosdev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
